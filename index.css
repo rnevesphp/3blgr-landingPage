@@ -26,9 +26,9 @@ html {
   scroll-behavior: smooth;
 }
 
-main section {
+/* main section {
   margin: 0 40px;
-}
+} */
 
 .df {
   display: flex;
