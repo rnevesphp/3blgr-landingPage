@@ -162,11 +162,11 @@ main .s-presentation .info-presentation {
 
 main .s-presentation .logo {
   width: 50%;
-  padding: 5rem 0 5rem 0;
+  padding: 2.5rem 0;
 }
 
 main .s-presentation .text-presentation {
-  padding: 5rem 40px 5rem 40px;
+  padding: 1rem 40px;
 }
 
 main .s-collections .info-collection h3 {
